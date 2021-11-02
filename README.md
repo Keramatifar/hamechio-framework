@@ -1,2 +1,2 @@
 # hamechio-framework
-Hamechio &amp;copy; php framework
+Hamechio framework 
